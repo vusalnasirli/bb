@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container{
+      margin: 0 auto;
+      text-align: center;
+  }
+  .c-title{
+    font-family: initial;
+      margin-top: 15px;
+      margin-bottom: 20px;
+  }
+  .c-descr{
+    color: darkgray;
+    margin-bottom: 25px;
+  }
+  .c-descr0{
+      color: darkgray;
+      padding: 30px 320px ;
+  }
+  .c-descend{
+    color: cadetblue;
+    font-family: fantasy;
+    margin-top: 10px;
+    font-size: 25px;
+  }
+  
